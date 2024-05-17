@@ -103,10 +103,10 @@ Follow these steps to set up the project locally on your machine:
 I welcome contributions to PriceX! If you'd like to contribute, please follow these guidelines:
 
 - Fork the repository and create a new branch for your feature or bug fix.
--Ensure your code follows the existing code style and conventions.
--Write clear and concise commit messages.
--Test your changes thoroughly.
--Submit a pull request detailing the changes and improvements you've made.
+- Ensure your code follows the existing code style and conventions.
+- Write clear and concise commit messages.
+- Test your changes thoroughly.
+- Submit a pull request detailing the changes and improvements you've made.
 
 ## More
 
