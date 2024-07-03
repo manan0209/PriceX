@@ -1,17 +1,5 @@
 # PriceX Price Tracking Application
 
-## Table of Contents
-
-1. Introduction
-2. Tech Stack
-3. Features
-4. Quick Start
-5. Snippets
-6. Links
-7. More
-
-## Introduction
-
 The PriceX Price Tracking Application, developed using Next.js and Bright Data's webunlocker, is designed to assist users in making informed decisions about their online purchases. It notifies users when a product drops in price and alerts them when a product is out of stock, all managed through cron jobs.
 
 Demo: [PriceX Demo](https://pricexmnn.vercel.app/)
