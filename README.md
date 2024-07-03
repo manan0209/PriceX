@@ -69,22 +69,6 @@ Follow these steps to set up the project locally on your machine:
 
    Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## Snippets
-
-- `cron.route.ts`: A TypeScript file for updating product details and sending email notifications based on specific criteria.
-- `generateEmailBody.ts`: A TypeScript file for generating email content based on different notification types.
-- `globals.css`: Global CSS styles for the project.
-- `index.scraper.ts`: TypeScript file for scraping product details from Amazon.
-- `next.config.js`: Next.js configuration file.
-- `tailwind.config.ts`: Tailwind CSS configuration file.
-- `types.ts`: TypeScript file containing type definitions used in the project.
-- `utils.ts`: Utility functions used in the project.
-
-## Links
-
-- [Bright Data](https://brightdata.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Node Mailer](https://nodemailer.com/)
 
 ## Contribution Guidelines
 
@@ -95,7 +79,3 @@ I welcome contributions to PriceX! If you'd like to contribute, please follow th
 - Write clear and concise commit messages.
 - Test your changes thoroughly.
 - Submit a pull request detailing the changes and improvements you've made.
-
-## More
-
-For more information and detailed documentation, refer to the project's codebase and the official documentation of the technologies used.
